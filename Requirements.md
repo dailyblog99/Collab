@@ -5,20 +5,26 @@
 
 ---
 
-### Requirements
+## Background
 
-I have a website [placesinprague.com](https://placesinprague.com). It's a clone of a  theme from [Jekyll]().
+I have a website [placesinprague.com](https://placesinprague.com). It's a clone of a  theme from [Jekyll](http://jekyllrb.com/).
 
 
-Jekyll is a [ruby]() [gem](). What it basically does is that it allows static websites to run javascript.
+Jekyll is a [ruby](https://www.ruby-lang.org/en/) [gem](https://www.ruby-lang.org/en/libraries/). What it does is that it allows static websites to run javascript.
+
 Jekyll needs to be installed, which can get tricky but once its up and running it is very fast. 
 
-- To download Jekyll click [here.]() 
+- To download Jekyll click [here.](http://jekyllrb.com/docs/) 
+   
+   You will need to download this to see the site and the changes you made locally.
     
--  To download Ruby click [here.]()
+-  To download Ruby click [here.](https://www.ruby-lang.org/en/downloads/)
 
+   You will need it to download jekyll.
 
 It might be a little helpful for you to understand some basics of Jekyll before you start editing.
+
+Read about `FrontMatter` `Liquid` `Layouts`
 
 When the command `jekyll new myapp` is executed, a new folder is created with the name `myapp.`
 In that folder Jekyll would have created a basic website with the default theme `minima.`
@@ -29,9 +35,14 @@ Initial directory structre looks like this.
 ![Directory Structre Jekyll Bare](/jekyll_bare.PNG)
 
 
-Later on when different Folders are added the directory structure can look 
+Later on when different Folders are added the directory structure can look like this.
+
+![Directory Structre Jekyll Full](/jekyll_full.PNG)
 
 
+---
+
+## Requirements
 
 
 So, what I did was that I forked the theme and made some minor changes. Now I have reached a point where in 
