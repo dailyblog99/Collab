@@ -18,25 +18,55 @@ Jekyll needs to be installed, which can get tricky but once its up and running i
 -  To download Ruby click [here.]()
 
 
+It might be a little helpful for you to understand some basics of Jekyll before you start editing.
+
+When the command `jekyll new myapp` is executed, a new folder is created with the name `myapp.`
+In that folder Jekyll would have created a basic website with the default theme `minima.`
+
+Initial directory structre looks like this.
+
+
+
+
+
+Later on when different Folders are added the directory structure can look like this. 
+
+
+
+
 
 So, what I did was that I forked the theme and made some minor changes. Now I have reached a point where in 
 I would like to add some functionality and change some appearances. 
 
 Below are the points for which I would request your attention.
 
-* Home Page
+* ### Home Page
   
-  The landing page is ok but I want to remove the link to the older posts and create three boxes with links to the posts.
+  The landing page is ok but I want to add some boxes before  the link to the older posts appears.
+  See below image. I have highlighted the button.
+  
+  ![Home_Page](/home_page.PNG)
   
 
 
 
-* Multi-Lingual Support
+* ### Multi-Lingual Support
 
-  There is an existing repo that offers language support for Jekyll websites. The repo is located [here.]()
-  The user is [WiredCraft.]() They make static websites for Fortune500 companies.
+  There is an existing repo that offers language support for Jekyll websites. 
+  
+  The repo is located [here.](https://github.com/Wiredcraft/jekyll-basics)
+  
+  The user is [WiredCraft.](https://wiredcraft.com/) They make static websites for Fortune500 companies.
   
   The repo contains a bare theme  with Multilanguage support for English, French and Mandarin. I was wondering
   if you could include the same function for my site. I think the logic is written in `JS.`
   
+  
+  
+  
+  ---
+  
+  
+  
+  So, are you up for it ? 
   
