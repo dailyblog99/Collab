@@ -26,11 +26,10 @@ In that folder Jekyll would have created a basic website with the default theme 
 Initial directory structre looks like this.
 
 
+![Directory Structre Jekyll Bare](/jekyll_bare.PNG)
 
 
-
-Later on when different Folders are added the directory structure can look like this. 
-
+Later on when different Folders are added the directory structure can look 
 
 
 
